@@ -27,4 +27,3 @@ The following compression techniques were explored:
 [@Samuel Jones](https://github.com/Joness07)
 
 [@Ben Bridgeman](https://github.com/benbridgeman03)
-test
